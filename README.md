@@ -1,2 +1,2 @@
 # researchathon
-community reward system to incentivize answering questions
+community reward system to understand problems
